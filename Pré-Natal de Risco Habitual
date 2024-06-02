@@ -1,0 +1,19 @@
+[Início]
+    ↓
+[Primeira Consulta]
+    ↓
+[Anamnese Completa] → [Exame Físico Completo] → [Solicitação de Exames]
+    ↓
+[Resultado dos Exames] → [Plano de Acompanhamento]
+    ↓
+[Consultas de Acompanhamento] ↔ [Exames de Rotina]
+    ↓
+[Orientações e Educação]
+    ↓
+[Identificação de Complicações] ↔ [Encaminhamento]
+    ↓
+[Finalização do Pré-Natal]
+    ↓
+[Parto]
+    ↓
+[Pós-Parto Imediato]
